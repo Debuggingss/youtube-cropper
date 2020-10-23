@@ -2,7 +2,7 @@
 Crop YouTube videos and convert them to various formats
 
 ***IMPORTANT:*** You have to fix pytube in order to use this script or else it won't work. It is a bug in pytube.
-https://github.com/nficano/pytube/issues/642
+https://github.com/nficano/pytube/issues/642#issuecomment-637671478
 
 Go to this folder: `C:\Users\{YOUR_USER}\AppData\Local\Programs\Python\Python38-32\Lib\site-packages\pytube`
 Open `extract.py` and change the old cipher_url to the new cipher_url
